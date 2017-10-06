@@ -1,3 +1,6 @@
+---
+output: html_document
+---
 Data organization in spreadsheets
 ========================================================
 author: Bianca Peterson
